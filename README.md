@@ -2,11 +2,7 @@
 
 End-to-end analytics project on a real B2B dataset covering **$120M in revenue**, **262 clients**, and **43,127 invoices** (2017–2020). Built with Python/Jupyter for modelling and Power BI for executive reporting.
 
-> Academic project — Instituto Politécnico do Cávado e do Ave (IPCA) | Applied Business Analytics 2025-26  
-> Group: Edgar Couto, Steven Boaventura, Marcelo Dias
-
 ---
-
 
 ## 🎯 Business Questions Answered
 
