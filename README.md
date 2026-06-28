@@ -7,21 +7,6 @@ End-to-end analytics project on a real B2B dataset covering **$120M in revenue**
 
 ---
 
-## 📊 Dashboard Preview
-
-| Visão Geral | Análise RFM |
-|---|---|
-| ![Visão Geral](screenshots/visao_geral.png) | ![RFM](screenshots/rfm.png) |
-
-| Deteção de Anomalias | Análise MBA |
-|---|---|
-| ![Anomalias](screenshots/anomalias.png) | ![MBA](screenshots/mba.png) |
-
-| Previsão de Abandono | Análises de Clientes |
-|---|---|
-| ![Churn](screenshots/churn.png) | ![Clientes](screenshots/clientes.png) |
-
----
 
 ## 🎯 Business Questions Answered
 
